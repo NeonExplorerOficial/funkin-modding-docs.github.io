@@ -7,5 +7,4 @@ para el Modding **Friday Night Funkin'**.
 Los archivos fuentes por los cuales este Libro fue generado se encuentran en [GitHub](https://github.com/FunkinCrew/funkin-modding-docs).
 ---------
 # Extra - Código Fuente de la Traducción
-
-Los archivos o el Código fuente de esta traducción lo puedes encontrar también en [GitHub](https://github.com/NeonExplorerOficial/funkin-modding-docs)
+**Los archivos o el Código fuente de esta traducción lo puedes encontrar también en [GitHub](https://github.com/NeonExplorerOficial/funkin-modding-docs)**
