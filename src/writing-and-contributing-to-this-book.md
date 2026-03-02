@@ -1,8 +1,10 @@
-# Writing And Contributing to This Book
-This book is written in Markdown format, and uses [mdbook](https://rust-lang.github.io/mdBook/) for generation.
+# Escribiendo y contribuyendo a este libro [TRADUCCIÓN EN PROGRESO]
+Éste libro está escrito en formato Markdown, y usa [mdbook](https://rust-lang.github.io/mdBook/) para su generación.
 
-The source files from which this book is generated can be found on [GitHub](https://github.com/FunkinCrew/funkin-modding-docs).
+La fuente de los archivos con los cuáles el libro original fue creado puedes encontrarlo en [GitHub](https://github.com/FunkinCrew/funkin-modding-docs).
 
+Y la fuente de los archivos por los cuales están traducción u
+fue creada puedes encontrarla también en [GitHub](https://github.com/NeonExplorerOficial/funkin-modding-docs)
 ## Things to Consider
 
 - How should we handle explaining directory paths? The source code has some of the 
